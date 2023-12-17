@@ -74,3 +74,9 @@
 </div>
 
 ###
+
+<h2 align="left">Credits</h2>
+
+README generated with: https://profile-readme-generator.com/
+<br>
+Stats generated with: https://github.com/jstrieb/github-stats
