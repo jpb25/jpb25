@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently 4th year in Bachelor of Science in Computer Science<br>✨ Creating bugs since 2015</p>
+<p align="left">📚 Currently 4th year in Bachelor of Science in Computer Science<br>✨ Creating applications since 2015</p>
 
 ###
 
