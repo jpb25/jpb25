@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 Currently 4th year in Bachelor of Science in Computer Science<br>✨ Creating applications since 2015</p>
-
-###
-
 <h2 align="left">Stats</h2>
 
 ![](https://raw.githubusercontent.com/jpb25/github-stats/master/generated/overview.svg#gh-dark-mode-only)
