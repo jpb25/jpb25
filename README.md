@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an aspiring developer from Philippines 🇵🇭</p>
+<p align="left">Web Developer from Philippines 🇵🇭</p>
 
 ###
 
