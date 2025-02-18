@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Web Developer from Philippines 🇵🇭</p>
+<p align="left">Software Developer from Philippines 🇵🇭</p>
 
 ###
 
